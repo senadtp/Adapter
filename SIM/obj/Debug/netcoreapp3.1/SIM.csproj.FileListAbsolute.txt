@@ -1,0 +1,13 @@
+C:\Users\senad\source\repos\SIM\SIM\bin\Debug\netcoreapp3.1\SIM.exe
+C:\Users\senad\source\repos\SIM\SIM\bin\Debug\netcoreapp3.1\SIM.deps.json
+C:\Users\senad\source\repos\SIM\SIM\bin\Debug\netcoreapp3.1\SIM.runtimeconfig.json
+C:\Users\senad\source\repos\SIM\SIM\bin\Debug\netcoreapp3.1\SIM.runtimeconfig.dev.json
+C:\Users\senad\source\repos\SIM\SIM\bin\Debug\netcoreapp3.1\SIM.dll
+C:\Users\senad\source\repos\SIM\SIM\bin\Debug\netcoreapp3.1\SIM.pdb
+C:\Users\senad\source\repos\SIM\SIM\obj\Debug\netcoreapp3.1\SIM.csprojAssemblyReference.cache
+C:\Users\senad\source\repos\SIM\SIM\obj\Debug\netcoreapp3.1\SIM.AssemblyInfoInputs.cache
+C:\Users\senad\source\repos\SIM\SIM\obj\Debug\netcoreapp3.1\SIM.AssemblyInfo.cs
+C:\Users\senad\source\repos\SIM\SIM\obj\Debug\netcoreapp3.1\SIM.csproj.CoreCompileInputs.cache
+C:\Users\senad\source\repos\SIM\SIM\obj\Debug\netcoreapp3.1\SIM.dll
+C:\Users\senad\source\repos\SIM\SIM\obj\Debug\netcoreapp3.1\SIM.pdb
+C:\Users\senad\source\repos\SIM\SIM\obj\Debug\netcoreapp3.1\SIM.genruntimeconfig.cache
